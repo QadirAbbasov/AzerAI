@@ -1,6 +1,6 @@
 # Azər AI
 
-![Logo](./AzerAI_GitHub_Logo_Transparent.png)
+![Logo](./AzerAI.png)
 
 Azər AI, modern bir bilgisayar asistanıdır. Kullanıcıların günlük işlerini kolaylaştırmak için yapay zeka teknolojisi ile geliştirilmiştir.
 
