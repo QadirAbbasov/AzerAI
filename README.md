@@ -7,7 +7,7 @@ Azər AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işl
 ## Quraşdırma və İstifadə
 
 1. Bu repositoridən ən son versiyanı yükləyin:
-   [Azər AI.exe](./AzerAI.setup) _(ya da releases bölməsindən yükləyə bilərsiniz)_
+   [Azər AI.setup](./AzerAI.setup) _(ya da releases bölməsindən yükləyə bilərsiniz)_
 
 2. Faylı iki dəfə tıklayaraq işlədin.
 
@@ -40,16 +40,14 @@ Azər AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işl
 
 ## Lisenziya
 
-MIT Lisenziyası. İstədiyiniz kimi istifadə edə, paylaya və inkişaf etdirə bilərsiniz.
+MIT Lisenziyası. İstifadə qaydaları ilə istifadə edə bilərsiniz.
 
-## Töhfə
+## Dəstək
 
-Azər AI açıq mənbə layihəsidir. Töhfə vermək istəyirsinizsə, aşağıdakı addımları izləyin:
+Azər AI, müasir bir kompüter asistandır bizə fikirlərinizi deyə bilərsiniz:
 
-1. Fork edin.
-2. Yeni bir branch yaradın (`git checkout -b feature-xyz`).
-3. Dəyişiklikləri edin və commit edin (`git commit -am 'Yeni xüsusiyyət əlavə olundu'`).
-4. Pull request göndərin.
+1. Azər AI İnkişaf yenilikləri.
+2. Azər AI xətalarını bildirin.
 
 ## Əlaqə
 
