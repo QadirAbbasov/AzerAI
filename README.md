@@ -7,25 +7,36 @@ Azər AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işl
 ## Quraşdırma və İstifadə
 
 1. Bu repositoridən ən son versiyanı yükləyin:
-   [Azər AI.exe](./AzerAI.exe) _(ya da releases bölməsindən yükləyə bilərsiniz)_
+   [Azər AI.exe](./AzerAI.setup) _(ya da releases bölməsindən yükləyə bilərsiniz)_
 
 2. Faylı iki dəfə tıklayaraq işlədin.
 
-3. Quraşdırma tələb etmir — birbaşa istifadə oluna bilər.
+3. Quraşdırma tələb olunur — quraşdırmadan sonra istifadə oluna bilər.
 
 > 📌 Qeyd: Windows kompüterlərində işləyir. İlk açılışda təhlükəsizlik xəbərdarlığı çıxa bilər; "Yenə də işlət" seçimini istifadə edin.
 
 ## Sistem Tələbləri
 
-- Windows 10 və ya daha yeni
+- Windows 10 və ya Windows 11
 - Ən az 2 GB RAM
-- .NET 6 və ya daha yeni (.NET tələb olunarsa, avtomatik olaraq yönləndirilirsiniz)
+- Ən az 5 GB YADDAŞ
 
 ## Xüsusiyyətlər
 
-- Gündəlik tapşırıqları asanlıqla idarə etməyə kömək edir.
-- Süni intellekt texnologiyasından istifadə edərək təbii dil emalı.
-- İstifadəçi təcrübəsini optimallaşdırmaq üçün sadə və intuitiv interfeys.
+- Gündəlik tapşırıqları asanlıqla idarə etməyə kömək edir +
+- Süni intellekt texnologiyasından istifadə edərək təbii dil emalı +
+- Azərbaycan və Türk dil dəstəyi +
+- Xususi əmrlər dəstəyi +
+- Səs dalgası dəstəyi +
+- TTS matoru parlametləri dəyişmə +
+- Səs cinsiyəti Kişi/Kadın +
+- Pro və Free Lisanse dəstəyi +
+- Hesab sistemi +
+- Yazaraq əmr vermək +
+- Asistan adı ilə əmr vermək +
+- Dəvamli dinləmə +
+- Tək dinləmə +
+- Cavab inputu səslə +
 
 ## Lisenziya
 
