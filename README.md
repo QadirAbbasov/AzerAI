@@ -51,7 +51,7 @@ Azər AI, müasir bir kompüter asistandır bizə fikirlərinizi deyə bilərsin
 
 ## Əlaqə
 
-- [GitHub səhifəsi](https://github.com/azer-ai)
+- [GitHub səhifəsi](https://github.com/QadirAbbasov/Azer-AI)
 - Email: [support@azerai.com](mailto:support@azerai.com)
 
 ## Layihə Statusu
