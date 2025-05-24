@@ -1,4 +1,4 @@
-# Azər AI
+# Azer AI
 
 ![Logo](./AzerAI.png)
 
