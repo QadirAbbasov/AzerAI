@@ -7,7 +7,7 @@ Azər AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işl
 ## Quraşdırma və İstifadə
 
 1. Bu repositoridən ən son versiyanı yükləyin:
-   [Azər AI.setup](./AzerAI.setup) _(ya da releases bölməsindən yükləyə bilərsiniz)_
+   [Azər AI.setup](https://drive.google.com/file/d/1EA1XomJpQO4k-IEOBzd4vvDKWy1vpmV6/view?usp=drive_link) _(ya da releases bölməsindən yükləyə bilərsiniz)_
 
 2. Faylı iki dəfə tıklayaraq işlədin.
 
