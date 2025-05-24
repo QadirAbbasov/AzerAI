@@ -2,12 +2,12 @@
 
 ![Logo](./AzerAI.png)
 
-Azər AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işlərini asanlaşdırmaq üçün süni intellekt texnologiyası ilə inkişaf etdirilmişdir.
+Azer AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işlərini asanlaşdırmaq üçün süni intellekt texnologiyası ilə inkişaf etdirilmişdir.
 
 ## Quraşdırma və İstifadə
 
 1. Bu repositoridən ən son versiyanı yükləyin:
-   [Azər AI.setup](https://drive.google.com/file/d/1EA1XomJpQO4k-IEOBzd4vvDKWy1vpmV6/view?usp=drive_link) _(ya da releases bölməsindən yükləyə bilərsiniz)_
+   [Azer AI.setup](https://drive.google.com/file/d/1EA1XomJpQO4k-IEOBzd4vvDKWy1vpmV6/view?usp=drive_link target="_blank") _(ya da releases bölməsindən yükləyə bilərsiniz)_
 
 2. Faylı iki dəfə tıklayaraq işlədin.
 
@@ -46,13 +46,12 @@ MIT Lisenziyası. İstifadə qaydaları ilə istifadə edə bilərsiniz.
 
 Azər AI, müasir bir kompüter asistandır bizə fikirlərinizi deyə bilərsiniz:
 
-1. Azər AI İnkişaf yenilikləri.
-2. Azər AI xətalarını bildirin.
+1. Azer AI İnkişaf yenilikləri.
+2. Azer AI xətalarını bildirin.
 
 ## Əlaqə
 
 - [GitHub səhifəsi](https://github.com/QadirAbbasov)
-- Email: [support@azerai.com](mailto:support@azerai.com)
 
 ## Layihə Statusu
 
